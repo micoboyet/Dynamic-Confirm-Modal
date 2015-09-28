@@ -1,6 +1,6 @@
-# Dynamic Confirm Modal
+# confirm.js
 
-Easy to use Confirm Modal created using JQuery and Bootstrap. Put events in every custom buttons on your web application.
+Easy to use Confirm Modal created using JQuery and Bootstrap. Put events in every custom buttons on your web application. Easy to implement, save time.
 
 # Requirements
 This snippet uses a number of open source projects to work properly:
